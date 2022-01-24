@@ -1,4 +1,4 @@
-### Hi there 👋
+### It’s a Metaverse? It’s a DAO? It’s a Marketplace? It’s Society3
 
 <!--
 **society3/society3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
